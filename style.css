@@ -7,3 +7,26 @@ body {
     border-width: 15px;
   }
   
+  h2.groove {
+    border-style: groove;
+  }
+
+  h3.round3 {
+    border: 2px solid rgb(119, 16, 16);
+    border-radius: 12px;
+    padding: 5px;
+  }
+
+  p.round2 {
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 5px;
+  }
+
+  p.round1 {
+    border: 2px solid rgb(35, 35, 54);
+    border-radius: 5px;
+    padding: 5px;
+  }
+
+  
